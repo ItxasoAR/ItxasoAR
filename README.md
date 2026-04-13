@@ -23,6 +23,14 @@ My current goal is to deepen my expertise in bioinformatics and develop into an 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg" width="40"/>
 </p>
 
+
+<h2 align="center">⚙️ Technologies</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p> 
+
 </td>
 
 <td width="40%" align="center">
