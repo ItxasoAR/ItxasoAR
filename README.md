@@ -17,15 +17,16 @@ My current goal is to deepen my expertise in bioinformatics and develop into an 
 
 ## Languages 👩‍💻
 <p align="center">
+  <img src="  https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
-  <img src="https://es.wikipedia.org/wiki/Perl#/media/Archivo:Perl-logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg" width="40"/>
 </p>
 
 </td>
 
 <td width="40%" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2784/2784445.png" width="200"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2885/2885417.png" width="220"/>
 </td>
 
 </tr>
