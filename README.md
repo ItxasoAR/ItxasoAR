@@ -26,7 +26,7 @@ My current goal is to deepen my expertise in bioinformatics and develop into an 
 </td>
 
 <td width="40%" align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2885/2885417.png" width="220"/>
+<img src="https://www.svgrepo.com/show/331760/dna.svg" width="220"/>
 </td>
 
 </tr>
