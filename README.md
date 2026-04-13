@@ -16,14 +16,17 @@ I consider myself a resourceful and hard-working person, committed to delivering
 My current goal is to deepen my expertise in bioinformatics and develop into an efficient and competent professional. I am always open to new challenges, continuously seeking porptunities to expand my knowledge and skills in this beautiful field.
 
 ## Languages 👩‍💻
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash)
 ![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white) 
+</p>
 
 </td>
 
 <td>
-<img src="https://www.svgrepo.com/show/331760/dna.svg" width="200"/></td>
+  
+<img src="https://cdn-icons-png.flaticon.com/512/2784/2784445.png" width="220"/>
+
 </tr>
 </table>
