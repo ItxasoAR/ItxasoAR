@@ -18,8 +18,8 @@ My current goal is to deepen my expertise in bioinformatics and develop into an 
 ## Languages 👩‍💻
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
+  <img src="https://es.wikipedia.org/wiki/Perl#/media/Archivo:Perl-logo.svg" width="40"/>
 </p>
 
 </td>
