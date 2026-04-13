@@ -24,7 +24,7 @@ My current goal is to deepen my expertise in bioinformatics and develop into an 
 </p>
 
 
-<h2 align="center">⚙️ Technologies</h2>
+### Technologies 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
