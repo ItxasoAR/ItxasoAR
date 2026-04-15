@@ -35,8 +35,6 @@ I consider myself a resourceful and hard-working person, committed to delivering
 
 
 <img src="[URL_of_the_gif](https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif)" width="400" alt="coding gif" />
-  ![coding gif](https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif)
-
 
 </tr>
 </table>
