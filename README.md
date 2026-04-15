@@ -34,7 +34,7 @@ I consider myself a resourceful and hard-working person, committed to delivering
 </td>
 
 <td width="40%" align="center">
-<img src="https://www.svgrepo.com/show/396310/dna.svg" width="220"/>
+  ![coding gif](https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif)
 </td>
 
 </tr>
