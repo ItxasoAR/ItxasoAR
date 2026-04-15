@@ -15,7 +15,7 @@
 I consider myself a resourceful and hard-working person, committed to delivering high-quality projects. I thrive in multidisciplinary enviroments and make the most of teamwork opportunities, using them as a way to continuously learn and grow.</p>
 <p>My current goal is to deepen my expertise in bioinformatics and develop into an efficient and competent professional. I am always open to new challenges, continuously seeking porptunities to expand my knowledge and skills in this beautiful field.</p>
 
-## Languages 👩‍💻
+### Languages 👩‍💻
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
